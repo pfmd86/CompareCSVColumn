@@ -1,4 +1,4 @@
-# compare_csv
+# CompareCSVColumn
 
 Compare two CSV files by sorted content and identify which values are only in file A, only in file B, or present in both.
 
